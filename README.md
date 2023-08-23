@@ -16,8 +16,8 @@
 <h3>Sobre mim</h3>
 <ul>
   <li>Apaixonado por codar e aprender novas tecnologias, buscando meu primeiro emprego na área</li>
-  <li>Sou Youtuber nas horas vagas, tenho um canal de react com 50 mil inscritos (<a target:"_blank" href="https://www.youtube.com/@Nixienaga"><img src="https://img.icons8.com/?size=512&id=19318&format=png" width="20"></a>)</li>
-  <li>Já fui produtor musical (<a href="https://soundcloud.com/kohansz" target:"_blank"><img src="https://img.icons8.com/?size=512&id=13669&format=png" width="20"></a>)</li>
+  <li>Sou Youtuber nas horas vagas, tenho um canal de react com 50 mil inscritos (<a target="_blank" href="https://www.youtube.com/@Nixienaga"><img src="https://img.icons8.com/?size=512&id=19318&format=png" width="20"></a>)</li>
+  <li>Já fui produtor musical (<a href="https://soundcloud.com/kohansz" target="_blank"><img src="https://img.icons8.com/?size=512&id=13669&format=png" width="20"></a>)</li>
   <li>Tenho 9 ratinhos, 2 gatos e uma calopsita ( Pai de pet ) </li>
 </ul>
 
