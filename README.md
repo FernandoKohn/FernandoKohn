@@ -15,7 +15,7 @@
 
 <h3>Sobre mim</h3>
 <ul>
-  <li>Apaixonado por codar e aprender novas tecnologias, buscando meu primeiro emprego na área</li>
+  <li>Freelancer a 1 ano, buscando sempre se diferenciar ao máximo em cada projeto. Quem gosta de mesmices? </li>
   <li> Especializado em ReactJS, completamente entusiasta desta tecnologia e do que ela proporciona.
 </ul>
 <h3>Curiosidades</h3>
