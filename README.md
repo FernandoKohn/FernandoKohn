@@ -15,14 +15,9 @@
 
 <h3>Sobre mim</h3>
 <ul>
-  <li>Freelancer a 1 ano, buscando sempre se diferenciar ao máximo em cada projeto. Quem gosta de mesmices? </li>
+  <li>Freelancer a 2 ano, buscando sempre se diferenciar ao máximo em cada projeto. Quem gosta de mesmices? </li>
   <li> Especializado em ReactJS, completamente entusiasta desta tecnologia e do que ela proporciona.
-</ul>
-<h3>Curiosidades</h3>
-<ul>
-  <li>Sou Youtuber nas horas vagas, tenho um canal com 50 mil inscritos (<a target="_blank" href="https://www.youtube.com/@Nixienaga"><img src="https://img.icons8.com/?size=512&id=19318&format=png" width="20"></a>)</li>
-  <li>Já fui produtor musical (<a href="https://soundcloud.com/kohansz" target="_blank"><img src="https://img.icons8.com/?size=512&id=13669&format=png" width="20"></a>)</li>
-  <li>Tenho 8 ratinhos, 3 gatos e uma calopsita. </li>
+  <li>Especializado em criar websites dinâmicos e responsivos, transformando ideias em soluções digitais inovadoras.</li>
 </ul>
 
 <h3>Onde me achar</h3>
