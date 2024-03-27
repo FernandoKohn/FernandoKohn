@@ -15,7 +15,7 @@
 
 <h3>Sobre mim</h3>
 <ul>
-  <li>Freelancer a 1 ano, buscando sempre se diferenciar ao máximo em cada projeto. Quem gosta de mesmices? </li>
+  <li>Buscando sempre se diferenciar ao máximo em cada projeto. Quem gosta de mesmices? </li>
   <li> Especializado em ReactJS, completamente entusiasta desta tecnologia e do que ela proporciona.
   <li>Especializado em criar websites dinâmicos e responsivos, transformando ideias em soluções digitais inovadoras.</li>
 </ul>
